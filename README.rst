@@ -7,3 +7,5 @@ AsyncARI is an AnyIO-ified adapter for the Asterisk ARI interface.
 
 License: Your choice of MIT or Apache License 2.0
 
+muslih
+
